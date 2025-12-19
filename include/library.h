@@ -1,0 +1,6 @@
+#ifndef CONNECTIONS_LIBRARY_H
+#define CONNECTIONS_LIBRARY_H
+
+void hello();
+
+#endif // CONNECTIONS_LIBRARY_H
